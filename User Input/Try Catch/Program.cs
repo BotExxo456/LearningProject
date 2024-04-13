@@ -6,10 +6,15 @@
         {
             
             Console.WriteLine("Please enter a number!");
-            string userInput = Console.ReadLine();
+            string? userInput = Console.ReadLine();
             
             try
             {
+                if (userInput == null)
+                {
+                    throw new FormatException();
+                }
+                
                 int userInputAsInt = Int32.Parse(userInput);
                 Console.WriteLine("Lets divide the number by 0 then");
                 Console.WriteLine(Int32.Parse(userInput) / 0);
@@ -38,7 +43,7 @@
                 Console.WriteLine("This is called anyways");
             }
 
-            Console.ReadKey();
+            Console.Read();
         }
     }
 }
