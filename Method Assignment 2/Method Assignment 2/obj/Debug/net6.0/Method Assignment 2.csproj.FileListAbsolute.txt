@@ -1,0 +1,14 @@
+C:\Users\Anwender\Desktop\Udemy\Method Assignment 2\Method Assignment 2\bin\Debug\net6.0\Method Assignment 2.exe
+C:\Users\Anwender\Desktop\Udemy\Method Assignment 2\Method Assignment 2\bin\Debug\net6.0\Method Assignment 2.deps.json
+C:\Users\Anwender\Desktop\Udemy\Method Assignment 2\Method Assignment 2\bin\Debug\net6.0\Method Assignment 2.runtimeconfig.json
+C:\Users\Anwender\Desktop\Udemy\Method Assignment 2\Method Assignment 2\bin\Debug\net6.0\Method Assignment 2.dll
+C:\Users\Anwender\Desktop\Udemy\Method Assignment 2\Method Assignment 2\bin\Debug\net6.0\Method Assignment 2.pdb
+C:\Users\Anwender\Desktop\Udemy\Method Assignment 2\Method Assignment 2\obj\Debug\net6.0\Method Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anwender\Desktop\Udemy\Method Assignment 2\Method Assignment 2\obj\Debug\net6.0\Method Assignment 2.AssemblyInfoInputs.cache
+C:\Users\Anwender\Desktop\Udemy\Method Assignment 2\Method Assignment 2\obj\Debug\net6.0\Method Assignment 2.AssemblyInfo.cs
+C:\Users\Anwender\Desktop\Udemy\Method Assignment 2\Method Assignment 2\obj\Debug\net6.0\Method Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\Anwender\Desktop\Udemy\Method Assignment 2\Method Assignment 2\obj\Debug\net6.0\Method Assignment 2.dll
+C:\Users\Anwender\Desktop\Udemy\Method Assignment 2\Method Assignment 2\obj\Debug\net6.0\refint\Method Assignment 2.dll
+C:\Users\Anwender\Desktop\Udemy\Method Assignment 2\Method Assignment 2\obj\Debug\net6.0\Method Assignment 2.pdb
+C:\Users\Anwender\Desktop\Udemy\Method Assignment 2\Method Assignment 2\obj\Debug\net6.0\Method Assignment 2.genruntimeconfig.cache
+C:\Users\Anwender\Desktop\Udemy\Method Assignment 2\Method Assignment 2\obj\Debug\net6.0\ref\Method Assignment 2.dll

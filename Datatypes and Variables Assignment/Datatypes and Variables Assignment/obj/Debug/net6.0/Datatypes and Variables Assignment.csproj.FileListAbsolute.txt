@@ -1,0 +1,14 @@
+C:\Users\Anwender\Desktop\Udemy\Datatypes and Variables Assignment\Datatypes and Variables Assignment\bin\Debug\net6.0\Datatypes and Variables Assignment.exe
+C:\Users\Anwender\Desktop\Udemy\Datatypes and Variables Assignment\Datatypes and Variables Assignment\bin\Debug\net6.0\Datatypes and Variables Assignment.deps.json
+C:\Users\Anwender\Desktop\Udemy\Datatypes and Variables Assignment\Datatypes and Variables Assignment\bin\Debug\net6.0\Datatypes and Variables Assignment.runtimeconfig.json
+C:\Users\Anwender\Desktop\Udemy\Datatypes and Variables Assignment\Datatypes and Variables Assignment\bin\Debug\net6.0\Datatypes and Variables Assignment.dll
+C:\Users\Anwender\Desktop\Udemy\Datatypes and Variables Assignment\Datatypes and Variables Assignment\bin\Debug\net6.0\Datatypes and Variables Assignment.pdb
+C:\Users\Anwender\Desktop\Udemy\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\Datatypes and Variables Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anwender\Desktop\Udemy\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\Datatypes and Variables Assignment.AssemblyInfoInputs.cache
+C:\Users\Anwender\Desktop\Udemy\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\Datatypes and Variables Assignment.AssemblyInfo.cs
+C:\Users\Anwender\Desktop\Udemy\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\Datatypes and Variables Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Anwender\Desktop\Udemy\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\Datatypes and Variables Assignment.dll
+C:\Users\Anwender\Desktop\Udemy\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\refint\Datatypes and Variables Assignment.dll
+C:\Users\Anwender\Desktop\Udemy\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\Datatypes and Variables Assignment.pdb
+C:\Users\Anwender\Desktop\Udemy\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\Datatypes and Variables Assignment.genruntimeconfig.cache
+C:\Users\Anwender\Desktop\Udemy\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\ref\Datatypes and Variables Assignment.dll
