@@ -14,6 +14,11 @@
         static void Main(string[] args)
         {
             Console.WriteLine(birthDate);
+            Console.WriteLine("Do whatever you want"); 
+
+            int burgerKing = 4;
+
+            Console.WriteLine(burgerKing);
         }
     }
 }
