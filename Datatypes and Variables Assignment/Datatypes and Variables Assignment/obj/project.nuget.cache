@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+/kQka+ExXRWpeKr0olw+CBfEb9m0YMXASAjpOJZydG4dVN7fE4fpcxnnHtDXlnV74Olrt4trCcrtQUgUcFwxg==",
+  "dgSpecHash": "loQtA3J/Jkfhru+xO/Jzo9OJL+NKwJsMFeQ5kwChl2/908uE6r3JZT5k7sgNo0CThwfLnPH4IW2NXxb+MVjMoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anwender\\Desktop\\Udemy\\Datatypes and Variables Assignment\\Datatypes and Variables Assignment\\Datatypes and Variables Assignment.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Anwender\\Desktop\\Udemy\\LearningProject\\Datatypes and Variables Assignment\\Datatypes and Variables Assignment\\Datatypes and Variables Assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anwender\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Anwender\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Anwender\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Anwender\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
