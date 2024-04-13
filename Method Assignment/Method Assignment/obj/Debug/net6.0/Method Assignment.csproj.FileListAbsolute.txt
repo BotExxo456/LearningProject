@@ -12,3 +12,17 @@ C:\Users\Anwender\Desktop\Udemy\Method Assignment\Method Assignment\obj\Debug\ne
 C:\Users\Anwender\Desktop\Udemy\Method Assignment\Method Assignment\obj\Debug\net6.0\Method Assignment.pdb
 C:\Users\Anwender\Desktop\Udemy\Method Assignment\Method Assignment\obj\Debug\net6.0\Method Assignment.genruntimeconfig.cache
 C:\Users\Anwender\Desktop\Udemy\Method Assignment\Method Assignment\obj\Debug\net6.0\ref\Method Assignment.dll
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Method Assignment\Method Assignment\bin\Debug\net6.0\Method Assignment.exe
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Method Assignment\Method Assignment\bin\Debug\net6.0\Method Assignment.deps.json
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Method Assignment\Method Assignment\bin\Debug\net6.0\Method Assignment.runtimeconfig.json
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Method Assignment\Method Assignment\bin\Debug\net6.0\Method Assignment.dll
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Method Assignment\Method Assignment\bin\Debug\net6.0\Method Assignment.pdb
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Method Assignment\Method Assignment\obj\Debug\net6.0\Method Assignment.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Method Assignment\Method Assignment\obj\Debug\net6.0\Method Assignment.AssemblyInfoInputs.cache
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Method Assignment\Method Assignment\obj\Debug\net6.0\Method Assignment.AssemblyInfo.cs
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Method Assignment\Method Assignment\obj\Debug\net6.0\Method Assignment.csproj.CoreCompileInputs.cache
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Method Assignment\Method Assignment\obj\Debug\net6.0\Method Assignment.dll
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Method Assignment\Method Assignment\obj\Debug\net6.0\refint\Method Assignment.dll
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Method Assignment\Method Assignment\obj\Debug\net6.0\Method Assignment.pdb
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Method Assignment\Method Assignment\obj\Debug\net6.0\Method Assignment.genruntimeconfig.cache
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Method Assignment\Method Assignment\obj\Debug\net6.0\ref\Method Assignment.dll

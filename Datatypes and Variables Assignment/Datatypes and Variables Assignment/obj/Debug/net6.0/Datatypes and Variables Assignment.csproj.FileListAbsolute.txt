@@ -12,3 +12,17 @@ C:\Users\Anwender\Desktop\Udemy\Datatypes and Variables Assignment\Datatypes and
 C:\Users\Anwender\Desktop\Udemy\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\Datatypes and Variables Assignment.pdb
 C:\Users\Anwender\Desktop\Udemy\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\Datatypes and Variables Assignment.genruntimeconfig.cache
 C:\Users\Anwender\Desktop\Udemy\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\ref\Datatypes and Variables Assignment.dll
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Datatypes and Variables Assignment\Datatypes and Variables Assignment\bin\Debug\net6.0\Datatypes and Variables Assignment.exe
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Datatypes and Variables Assignment\Datatypes and Variables Assignment\bin\Debug\net6.0\Datatypes and Variables Assignment.deps.json
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Datatypes and Variables Assignment\Datatypes and Variables Assignment\bin\Debug\net6.0\Datatypes and Variables Assignment.runtimeconfig.json
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Datatypes and Variables Assignment\Datatypes and Variables Assignment\bin\Debug\net6.0\Datatypes and Variables Assignment.dll
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Datatypes and Variables Assignment\Datatypes and Variables Assignment\bin\Debug\net6.0\Datatypes and Variables Assignment.pdb
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\Datatypes and Variables Assignment.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\Datatypes and Variables Assignment.AssemblyInfoInputs.cache
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\Datatypes and Variables Assignment.AssemblyInfo.cs
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\Datatypes and Variables Assignment.csproj.CoreCompileInputs.cache
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\Datatypes and Variables Assignment.dll
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\refint\Datatypes and Variables Assignment.dll
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\Datatypes and Variables Assignment.pdb
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\Datatypes and Variables Assignment.genruntimeconfig.cache
+c:\Users\Anwender\Desktop\Udemy\LearningProject\Datatypes and Variables Assignment\Datatypes and Variables Assignment\obj\Debug\net6.0\ref\Datatypes and Variables Assignment.dll

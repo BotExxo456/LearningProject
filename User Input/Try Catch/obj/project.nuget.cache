@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Uf3nIIho2DMRyEAotjUVpM+G0EZhd1FdYfisUE9ou8MC0XhqoGZn+TMSKmOjD30Tg1s57rNs3LkxBznDroaX0Q==",
+  "dgSpecHash": "2Z9zT+hfd9Hrdl45fbMOiDbGK9x8hnGsW/jWpMcI/hYe3xQ+J1vn2pC5XA3O5JqRgDPJzjx8waWuhjZJaYuJIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anwender\\Desktop\\Udemy\\User Input\\Try Catch\\Try Catch.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Anwender\\Desktop\\Udemy\\LearningProject\\User Input\\Try Catch\\Try Catch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anwender\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Anwender\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Anwender\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Anwender\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
