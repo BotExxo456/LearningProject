@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try Catch", "User Input\Try
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User Input", "User Input\User Input\User Input.csproj", "{06278225-5284-401F-8E63-35DAB41D8FE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chicken Nuggets (nuget)", "Chicken Nuggets (nuget)\Chicken Nuggets (nuget).csproj", "{D3091B2B-DB9D-4919-B52E-7F8663338B7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -110,6 +112,10 @@ Global
 		{06278225-5284-401F-8E63-35DAB41D8FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06278225-5284-401F-8E63-35DAB41D8FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06278225-5284-401F-8E63-35DAB41D8FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3091B2B-DB9D-4919-B52E-7F8663338B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3091B2B-DB9D-4919-B52E-7F8663338B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3091B2B-DB9D-4919-B52E-7F8663338B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3091B2B-DB9D-4919-B52E-7F8663338B7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{90C01649-DDBC-41AC-ADC2-DD96A642D42F} = {9090F685-7289-428D-A1A7-EA835E7A06FD}

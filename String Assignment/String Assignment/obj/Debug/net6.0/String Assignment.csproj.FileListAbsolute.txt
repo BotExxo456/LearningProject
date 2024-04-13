@@ -12,3 +12,17 @@ C:\Users\Anwender\Desktop\Udemy\String Assignment\String Assignment\obj\Debug\ne
 C:\Users\Anwender\Desktop\Udemy\String Assignment\String Assignment\obj\Debug\net6.0\String Assignment.pdb
 C:\Users\Anwender\Desktop\Udemy\String Assignment\String Assignment\obj\Debug\net6.0\String Assignment.genruntimeconfig.cache
 C:\Users\Anwender\Desktop\Udemy\String Assignment\String Assignment\obj\Debug\net6.0\ref\String Assignment.dll
+C:\Users\Anwender\Desktop\Udemy\LearningProject\String Assignment\String Assignment\bin\Debug\net6.0\String Assignment.exe
+C:\Users\Anwender\Desktop\Udemy\LearningProject\String Assignment\String Assignment\bin\Debug\net6.0\String Assignment.deps.json
+C:\Users\Anwender\Desktop\Udemy\LearningProject\String Assignment\String Assignment\bin\Debug\net6.0\String Assignment.runtimeconfig.json
+C:\Users\Anwender\Desktop\Udemy\LearningProject\String Assignment\String Assignment\bin\Debug\net6.0\String Assignment.dll
+C:\Users\Anwender\Desktop\Udemy\LearningProject\String Assignment\String Assignment\bin\Debug\net6.0\String Assignment.pdb
+C:\Users\Anwender\Desktop\Udemy\LearningProject\String Assignment\String Assignment\obj\Debug\net6.0\String Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anwender\Desktop\Udemy\LearningProject\String Assignment\String Assignment\obj\Debug\net6.0\String Assignment.AssemblyInfoInputs.cache
+C:\Users\Anwender\Desktop\Udemy\LearningProject\String Assignment\String Assignment\obj\Debug\net6.0\String Assignment.AssemblyInfo.cs
+C:\Users\Anwender\Desktop\Udemy\LearningProject\String Assignment\String Assignment\obj\Debug\net6.0\String Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Anwender\Desktop\Udemy\LearningProject\String Assignment\String Assignment\obj\Debug\net6.0\String Assignment.dll
+C:\Users\Anwender\Desktop\Udemy\LearningProject\String Assignment\String Assignment\obj\Debug\net6.0\refint\String Assignment.dll
+C:\Users\Anwender\Desktop\Udemy\LearningProject\String Assignment\String Assignment\obj\Debug\net6.0\String Assignment.pdb
+C:\Users\Anwender\Desktop\Udemy\LearningProject\String Assignment\String Assignment\obj\Debug\net6.0\String Assignment.genruntimeconfig.cache
+C:\Users\Anwender\Desktop\Udemy\LearningProject\String Assignment\String Assignment\obj\Debug\net6.0\ref\String Assignment.dll
