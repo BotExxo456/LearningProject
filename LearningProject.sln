@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested If Statement", "Nest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse Assignment2", "IfElse Assignment2\IfElse Assignment2.csproj", "{1822C0E0-C923-462B-BA8D-4C2D9AFDEF0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ifelse Assignment3", "Ifelse Assignment3\Ifelse Assignment3.csproj", "{36096CF7-A0BA-48C4-B822-4138934B8BDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -143,6 +145,10 @@ Global
 		{1822C0E0-C923-462B-BA8D-4C2D9AFDEF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1822C0E0-C923-462B-BA8D-4C2D9AFDEF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1822C0E0-C923-462B-BA8D-4C2D9AFDEF0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36096CF7-A0BA-48C4-B822-4138934B8BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36096CF7-A0BA-48C4-B822-4138934B8BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36096CF7-A0BA-48C4-B822-4138934B8BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36096CF7-A0BA-48C4-B822-4138934B8BDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
