@@ -57,6 +57,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParse", "TryParse\TryPar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse Assignment", "IfElse Assignment\IfElse Assignment.csproj", "{8CF2E218-D1B4-4D4C-9CDC-CB2410E5A637}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested If Statement", "Nested If Statement\Nested If Statement.csproj", "{77558E34-9664-4BF9-9CED-9BF243DA0284}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse Assignment2", "IfElse Assignment2\IfElse Assignment2.csproj", "{1822C0E0-C923-462B-BA8D-4C2D9AFDEF0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -131,6 +135,14 @@ Global
 		{8CF2E218-D1B4-4D4C-9CDC-CB2410E5A637}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CF2E218-D1B4-4D4C-9CDC-CB2410E5A637}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CF2E218-D1B4-4D4C-9CDC-CB2410E5A637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77558E34-9664-4BF9-9CED-9BF243DA0284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77558E34-9664-4BF9-9CED-9BF243DA0284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77558E34-9664-4BF9-9CED-9BF243DA0284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77558E34-9664-4BF9-9CED-9BF243DA0284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1822C0E0-C923-462B-BA8D-4C2D9AFDEF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1822C0E0-C923-462B-BA8D-4C2D9AFDEF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1822C0E0-C923-462B-BA8D-4C2D9AFDEF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1822C0E0-C923-462B-BA8D-4C2D9AFDEF0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

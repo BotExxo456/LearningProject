@@ -9,7 +9,7 @@
         //}
 
         Console.WriteLine("How warm is it today?");
-        string answer = Console.ReadLine();
+        string? answer = Console.ReadLine();
         int intAnswer; 
         int number;
         if(Int32.TryParse(answer, out number))
