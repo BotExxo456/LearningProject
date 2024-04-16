@@ -59,7 +59,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested If Statement", "Nest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse Assignment2", "IfElse Assignment2\IfElse Assignment2.csproj", "{1822C0E0-C923-462B-BA8D-4C2D9AFDEF0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ifelse Assignment3", "Ifelse Assignment3\Ifelse Assignment3.csproj", "{36096CF7-A0BA-48C4-B822-4138934B8BDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse Assignment3", "Ifelse Assignment3\IfElse Assignment3.csproj", "{36096CF7-A0BA-48C4-B822-4138934B8BDF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchStatements", "SwitchStatements\SwitchStatements.csproj", "{40209166-DCE8-4A5F-98F9-E2E8406C962E}"
 EndProject
