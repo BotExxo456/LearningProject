@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "HJPStyFecdh1IZjLEhvxJh2Bkf01fMhooZD3q6+yeRIn92ATVf6e3geuIxvZ6zTF1um7ih5xkDrQb1KkKMswYA==",
+  "dgSpecHash": "D3gSDAzoZxG6Vh8rNWC13ZCiLcuNVRo9/vOJ5Z4J6TxmiVkz8ZmCHUF2dtQbh2XeWYz86Wm4TJd1i7nt83LN8A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Anwender\\Desktop\\Udemy\\LearningProject\\Method Assignment 2\\Method Assignment 2\\Method Assignment 2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Anwender\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\Anwender\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\Anwender\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\Anwender\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+    "C:\\Users\\Anwender\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Anwender\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Anwender\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Anwender\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
   ],
   "logs": []
 }
