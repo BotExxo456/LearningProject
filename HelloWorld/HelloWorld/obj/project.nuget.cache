@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7KOT3wDdf7E9GocGjjcL5oyBCJb7rbbKR3qz1eKL8Z31g92GS19fWS6XY0m2XyhY/qArsa4KebNFWYIslek0yQ==",
+  "dgSpecHash": "6O18vrzlOfkoAM6GNt31t1PoHKwZNiLH6OIi1JuzPj55ynr1qJQUAKWMaLpPZ/7Je1xYEoyei6tCW97FjZ277g==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Anwender\\Desktop\\Udemy\\LearningProject\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\Anwender\\Desktop\\Udemy\\LearningProject\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anwender\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
     "C:\\Users\\Anwender\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",

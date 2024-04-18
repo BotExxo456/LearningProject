@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+HelloWorld/HelloWorld/obj/HelloWorld.csproj.nuget.dgspec.json
+HelloWorld/HelloWorld/obj/project.nuget.cache
+HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.assets.cache
+HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
