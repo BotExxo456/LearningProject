@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anwender\\Desktop\\Udemy\\LearningProject\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "c:\\Users\\Anwender\\Desktop\\Udemy\\LearningProject\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anwender\\Desktop\\Udemy\\LearningProject\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "c:\\Users\\Anwender\\Desktop\\Udemy\\LearningProject\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anwender\\Desktop\\Udemy\\LearningProject\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "c:\\Users\\Anwender\\Desktop\\Udemy\\LearningProject\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\Anwender\\Desktop\\Udemy\\LearningProject\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "c:\\Users\\Anwender\\Desktop\\Udemy\\LearningProject\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Anwender\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anwender\\Desktop\\Udemy\\LearningProject\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "c:\\Users\\Anwender\\Desktop\\Udemy\\LearningProject\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anwender\\AppData\\Roaming\\NuGet\\NuGet.Config"
